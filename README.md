@@ -60,7 +60,7 @@ Hi! I'm a **Computer Science Engineering** student at **Amal Jyothi, Kerala**. I
 ---
 
 ## 📅 Contribution Chart:
-![Edwin Viju's Contribution Chart](https://github-readme-activity-graph.cyclic.app/graph?username=edwinviju&theme=github)
+![Edwin Viju's Contribution Chart](https://github-readme-activity-graph.cyclic.app/graph?username=Edwin-Viju&theme=github)
 
 ---
 
