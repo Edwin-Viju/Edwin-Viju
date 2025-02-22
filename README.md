@@ -72,5 +72,3 @@ Hi! I'm a **Computer Science Engineering** student at **Amal Jyothi, Kerala**. I
 ---
 
 ✨ Feel free to explore my repositories and connect with me!
-
-
