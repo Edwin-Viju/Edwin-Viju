@@ -10,8 +10,8 @@ Hi! I'm a **Computer Science Engineering** student at **Amal Jyothi, Kerala**. I
 
 ### 🌱 Currently Learning:
 
-- 🔒 **Cybersecurity**
-- 🎨 **Photoshop**
+- <img src="URL_TO_YOUR_CYBERSECURITY_ICON" alt="Cybersecurity Icon" width="20" height="20"> Cybersecurity
+- <img src="URL_TO_YOUR_PHOTOSHOP_ICON" alt="Photoshop Icon" width="20" height="20"> Photoshop
 
 ---
 
@@ -19,35 +19,47 @@ Hi! I'm a **Computer Science Engineering** student at **Amal Jyothi, Kerala**. I
 
 #### **Programming Languages**:
 
-- 💻 **C++**, **Java**, **Python**, **C**, **PHP**
+- <img src="URL_TO_YOUR_CPP_ICON" alt="C++ Icon" width="20" height="20"> C++
+- <img src="URL_TO_YOUR_JAVA_ICON" alt="Java Icon" width="20" height="20"> Java
+- <img src="URL_TO_YOUR_PYTHON_ICON" alt="Python Icon" width="20" height="20"> Python
+- <img src="URL_TO_YOUR_C_ICON" alt="C Icon" width="20" height="20"> C
+- <img src="URL_TO_YOUR_PHP_ICON" alt="PHP Icon" width="20" height="20"> PHP
 
 #### **Web Development**:
 
-- 🌐 **HTML**, **CSS**, **JavaScript**, **PHP**
+- <img src="URL_TO_YOUR_HTML_ICON" alt="HTML Icon" width="20" height="20"> HTML
+- <img src="URL_TO_YOUR_CSS_ICON" alt="CSS Icon" width="20" height="20"> CSS
+- <img src="URL_TO_YOUR_JAVASCRIPT_ICON" alt="JavaScript Icon" width="20" height="20"> JavaScript
+- <img src="URL_TO_YOUR_PHP_ICON" alt="PHP Icon" width="20" height="20"> PHP
 
 #### **Data Analysis & Visualization**:
 
-- 📊 **Power BI**
+- <img src="URL_TO_YOUR_POWERBI_ICON" alt="Power BI Icon" width="20" height="20"> Power BI
 
 #### **Design & UX/UI**:
 
-- 🎨 **Figma**, **Photoshop** (learning)
+- <img src="URL_TO_YOUR_FIGMA_ICON" alt="Figma Icon" width="20" height="20"> Figma
+- <img src="URL_TO_YOUR_PHOTOSHOP_ICON" alt="Photoshop Icon" width="20" height="20"> Photoshop (learning)
 
 #### **Digital Marketing**:
 
-- 📱 **SEO**, **SEM**, **Social Media Marketing**
+- <img src="URL_TO_YOUR_SEO_ICON" alt="SEO Icon" width="20" height="20"> SEO
+- <img src="URL_TO_YOUR_SEM_ICON" alt="SEM Icon" width="20" height="20"> SEM
+- <img src="URL_TO_YOUR_SOCIALMEDIA_ICON" alt="Social Media Icon" width="20" height="20"> Social Media Marketing
 
 #### **Office Suite**:
 
-- 📑 **MS Office**: Excel, Word, PowerPoint
+- <img src="URL_TO_YOUR_EXCEL_ICON" alt="Excel Icon" width="20" height="20"> MS Excel
+- <img src="URL_TO_YOUR_WORD_ICON" alt="Word Icon" width="20" height="20"> MS Word
+- <img src="URL_TO_YOUR_POWERPOINT_ICON" alt="PowerPoint Icon" width="20" height="20"> MS PowerPoint
 
 ---
 
 ## 📊 My Goals:
 
-- 🚀 Build impactful data-driven solutions as a **Data Analyst**.
-- 🔐 Gain proficiency in **Cybersecurity**.
-- 🖌️ Master **Photoshop** for creative and design purposes.
+- <img src="URL_TO_YOUR_DATA_ANALYST_ICON" alt="Data Analyst Icon" width="20" height="20"> Build impactful data-driven solutions as a **Data Analyst**.
+- <img src="URL_TO_YOUR_CYBERSECURITY_ICON" alt="Cybersecurity Icon" width="20" height="20"> Gain proficiency in **Cybersecurity**.
+- <img src="URL_TO_YOUR_PHOTOSHOP_ICON" alt="Photoshop Icon" width="20" height="20"> Master **Photoshop** for creative and design purposes.
 
 ---
 
