@@ -55,7 +55,7 @@ Hi! I'm a **Computer Science Engineering** student at **Amal Jyothi, Kerala**. I
 ---
 
 ## 📈 GitHub Stats:
-![Edwin Viju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwinviju&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+![Edwin Viju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin-Viju&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 
 ---
 
