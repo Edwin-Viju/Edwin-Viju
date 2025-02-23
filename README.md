@@ -70,5 +70,7 @@ Hi! I'm a **Computer Science Engineering** student at **Amal Jyothi, Kerala**. I
 - ✉️ **Email**: [your-email@example.com](mailto:your-email@example.com)
 
 ---
+	
+### **Thanks for checking out my GitHub Profile!**  
 
 ✨ Feel free to explore my repositories and connect with me!
