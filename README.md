@@ -1,72 +1,71 @@
 # Heyy...! <img src="https://i.imgur.com/0Ce902y.gif" width="50" height="50" /> Call me <a href="https://www.linkedin.com/in/your-profile">Edwin Viju</a>
 
-I'm a **Computer Science Engineering student at Amal Jyothi College of Engineering**, passionate about building real-world tech solutions with a blend of creativity and innovation. I'm exploring the intersection of **AI, data and user-friendly design**, with a growing interest in  startup ecosystems.
+**Computer Science Student @ AJCE | IEEE SB Vice Chair | Aspiring Sports Data Scientist**
 
+I like to build  innovative AI-based solutions and learning projects. Passionate about applying
+technology in sports and innovative fields, with an ability to work independently and as part of a team
 ---
 
-## 📊 My Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night)](https://github.com/your-github-username)
+### 🌱 On My Radar
+- **Sports Vision & Tracking:** Masterclass in `YOLOv11` & `DeepSORT` for real-time player and ball trajectory analysis.
+- **Advanced MLOps:** Scaling AI deployments using `Docker` and `n8n` for automated document and sports-data pipelines.
+- **Geometric Deep Learning:** Exploring `Graph Neural Networks (GNNs)` to model player interactions and field placements.
+- **Big Data in Cricket:** Using `Apache Spark` & `Pandas` to process historical ball-by-ball datasets for predictive modeling.
+---
+### 🛠️ Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI & ML** | TensorFlow, Keras, OpenCV, ArcFace, CNN, MediaPipe, MLKit |
+| **Languages** | Python, Kotlin, C++, JavaScript |
+| **DevOps & Cloud** | n8n Automation, Docker, Firebase, Google Cloud API |
+| **Data Science** | Pandas, NumPy, Seaborn, Matplotlib, UMAP |
 
 ---
-
-## 🛠️ Languages & Skills
-<div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
- <img src="https://img.icons8.com/color/48/000000/linux.png" width="40" height="40"/>
- <img src="https://img.icons8.com/color/48/000000/windows-11.png" width="40" height="40"/>
- <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40" height="40"/>
-</div>
-
----
-
-## 🌱 What I'm Currently Learning
-- AI/ML project deployment with large model files
-- TensorFlow & CNN for image-based classification
-- Building chatbot interfaces using Dialogflow with character-driven personas
-- Electronics prototyping with smart control logic
-- Pandas and Seaborn for Data Analysis
-
----
-
 ## 💡 Highlight Projects
 
-## 🌿 Cardamom Quality Detector AI 
-Using CNN to classify cardamom as Good, Average, or Poor based on texture, color, shape & size.
+### 📸 Secret Syntax: End-to-End Gift Automation
+*An architected automation pipeline built on **n8n** that transforms raw data into personalized, print-ready digital gifts.*
+* **Automation:** Managed the entire lifecycle—from participant pairing in Google Sheets to complex image processing.
+* **Tech Stack:** n8n, Google Drive API, Gemini AI (for text refinement), and Base64 image encoding.
+* **Impact:** Eliminated 100% of manual coordination for large-scale gift-giving events.
 
-## 🍃 Leaf Disease Detector
-A CNN-based AI model (built with TensorFlow, saved as .h5) that detects and classifies plant diseases from leaf images. Aimed at supporting farmers with quick visual diagnosis to improve yield and reduce crop loss.
+### 🛡️ Project HASHTAG: AI Document Verification
+*A high-performance, hybrid AI system engineered for national-level hackathon standards to detect digital document fraud.*
+* **Dual-Layer Security:** Combines **OpenCV** perspective correction with a fine-tuned **CNN (TensorFlow/Keras)** for pixel-level analysis.
+* **OCR Integration:** Utilizes **Tesseract** and QR decoding to cross-reference printed text with embedded secure data.
+* **Outcome:** Provides instant classification as Valid, Suspicious, or Fraudulent for enterprise use.
 
-## 🤖 Comic-Style Farming Chatbot
-A chatbot using slang and with the persona of a humorous elder brother  & Jack Sparrow.
+### 🌿 Cardamom Quality Detector AI 
+*An automated grading system designed to standardize agricultural exports through visual inspection.*
+* **Core Logic:** Uses **Convolutional Neural Networks (CNN)** to analyze color density, surface texture, and geometric shape.
+* **Functionality:** Classifies produce into Good, Average, or Poor categories to ensure market quality standards.
+* **Goal:** Reducing manual grading errors and increasing trade transparency for farmers.
 
-## 🔌 Proxy Smart - Electronic Device Project
-A real-time theft prevention system combining a proximity-based electronic device and a mobile app to safeguard personal belongings in public spaces.
+### 👁️ EyeGesture Controller 
+*A hands-free Android utility allowing users to control short-form video apps via facial gestures.*
+* **Architecture:** Built using **Kotlin**, **CameraX**, and **Google MLKit** for real-time wink and blink detection.
+* **Gesture Injection:** Uses **Android Accessibility Services** to inject system-wide swipes without touching the screen.
+* **Innovation:** Includes per-user threshold calibration to distinguish intentional winks from natural blinks.
 
+### 🔌 Proxy Smart: IoT Security Suite
+*A hardware-software ecosystem designed for real-time theft prevention in public spaces.*
+* **Hardware:** Integrated **BLE-enabled electronic devices** with smart control logic for proximity monitoring.
+* **Software:** Custom mobile application that acts as a "digital leash," triggering instant alerts when belongings move out of range.
+* **Utility:** Developed as a scalable security solution for personal assets in high-traffic environments.
+
+### 🤖 Jack Sparrow AI: Persona-Driven Assistant
+*A specialized chatbot that blends technical troubleshooting with unpredictable character wit.*
+* **Niche:** Engineered using **Dialogflow Essentials** to assist users with Proxy Smart setup and security guidance.
+* **User Experience:** Features a "Captain Jack Sparrow" persona to deliver technical support through engaging, humorous dialogue.
+* **Deployment:** Hosted via a custom web interface for seamless user interaction and product onboarding.
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 GitHub Streak
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=tokyonight)
-
-</div>
-
----
 
 ## 🚀 More About Me
 - 🧠 Always on the lookout for crazy new project ideas
-- 📱 Interested in startup building and product innovation
+- 📱 Interested in startup building and Sports Analysis
 - 🌐 Learning how to scale solutions that matter
 - 🤝 Available for hackathons, collabs, and building MVPs
 
@@ -86,7 +85,7 @@ A real-time theft prevention system combining a proximity-based electronic devic
 
 <div align='center'>
   
-  Built by <strong>[Edwin Viju](https://github.com/your-github-username)</strong> <i>(ifykyk)</i>
+  Built by <strong>[Edwin Viju](https://github.com/your-github-username)</strong> 
 
 </div>
 
